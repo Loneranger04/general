@@ -1,2 +1,4 @@
 # general-
-gitupdates 
+Gitupdates
+Discord
+Suushi 
